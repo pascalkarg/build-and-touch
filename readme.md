@@ -1,3 +1,4 @@
+# This repository is now a fork, the original has been moved to https://github.com/th-nuernberg/build-and-touch
 # DIY VR Data Gloves 
 
 ![Build and Touch in Action](img/inAction.jpg)
